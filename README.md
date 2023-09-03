@@ -39,19 +39,21 @@ This project is built with HTML, CSS, JavaScript, bootstrap, jQuery
 
 <!-- Deployment Location -->
 
-https://truemiguel.github.io/06-Weather-Dashboard/
+Live link:
+https://truemiguel.github.io/evening-possession-mess/
 
-![Page on start up](assets/Images/screen-shot1.JPG)
+GitHub:
+https://github.com/TrueMiguel/evening-possession-mess
 
-![Weather of the city](assets/Images/screen-shot2.JPG)
+![App when opened](Assets/Screen-shot1.JPG)
 
-![Alert of invalid city name](assets/Images/screen-shot3.JPG)
+![App when refreshed after saving data](Assets/Screen-shot2.JPG)
 
 ---
 
 ## Final Note <a id="final_note"></a>
 
 <!-- Final Note -->
-This weather dashboad will show you the weather for the cities that you select along with a 5 day forecast. 
+This app will allow you to track your daily activities. Save that information so you don't lose it and also update to let you know if that note is in the past, current, or in the future. 
 
 ---

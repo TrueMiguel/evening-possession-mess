@@ -3,7 +3,7 @@
 
 ## Description
 
-A workday schedular that you can make daily notes in and save the notes.
+A workday scheduler that you can make daily notes in and save the notes.
 
 ## Table of Contents
 

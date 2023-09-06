@@ -2,6 +2,12 @@
 var hour = dayjs().format('H');
 var hourInt = parseInt(hour)
 
+// variable to get the current day from dayjs
+var today = dayjs().format('dddd, MMMM DD')
+var todayEl = document.querySelector('#currentDay')
+// adding the current date to the currentDay text area
+todayEl.textContent = today
+
 //  selects the parent div to then allow me to get the child divs from it
 var allDiv = document.querySelector('#parent')
 

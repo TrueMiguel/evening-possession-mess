@@ -45,9 +45,9 @@ https://truemiguel.github.io/evening-possession-mess/
 GitHub:
 https://github.com/TrueMiguel/evening-possession-mess
 
-![App when opened](Assets/Screen-shot1.JPG)
+![App when opened](Assets/images/Screen-shot1.JPG)
 
-![App when refreshed after saving data](Assets/Screen-shot2.JPG)
+![App when refreshed after saving data](Assets/images/Screen-shot2.JPG)
 
 ---
 
